@@ -6,7 +6,7 @@ var y = document.getElementById("register");
 var z = document.getElementById("btn");
 
 function register() {
-    x.style.left = "-100px";
+    x.style.left = "-400px";
     y.style.left = "50px";
     z.style.left = "110px";
     // x.style.display = "none";
